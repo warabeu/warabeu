@@ -6,6 +6,6 @@ to reality and develop myself.
 
 - 🌱  I'm  currently  learning Front-End
 -  I’m looking to work in IT .
-- My CV https://tudor-cv.netlify.app/
+
 
 
