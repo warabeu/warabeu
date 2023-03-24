@@ -4,8 +4,7 @@
 -   I decided to learn programming to bring all my ideas 
 to reality and develop myself.
 
-- 🌱  I'm  currently  learning Front-End
--  I’m looking to work in IT .
+
 
 
 
